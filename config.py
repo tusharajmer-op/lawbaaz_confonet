@@ -1,0 +1,8 @@
+API_KEY = "03fd2bd13523552337e1440fdb0ab63d"
+DB_HOST = "20.198.8.187"
+DB_PORT = "1947"
+DB_USER = "backendstore"
+DB_PASS = "digi@kota#1"
+DB_NAME = "docassemble"
+SOLR_HOST = "20.197.12.123"
+SOLR_PORT = "8981"
